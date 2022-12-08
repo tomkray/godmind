@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0x51588C015F2f5b07348a14FCE7942d7488Fb0724",
+  "SCAN_LINK": "https://etherscan.io/token/0x51588c015f2f5b07348a14fce7942d7488fb0724",
+  "NETWORK": {
+    "NAME": "Ethereum",
+    "SYMBOL": "ETH",
+    "ID": 1
+  },
+  "NFT_NAME": "GOD MINDS",
+  "SYMBOL": "GMD",
+  "MAX_SUPPLY": 45,
+  "WEI_COST": 80000000000000000,
+  "DISPLAY_COST": 0.08,
+  "GAS_LIMIT": 195000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://opensea.io/collection/godminds",
+  "SHOW_BACKGROUND": true
+}
